@@ -1,0 +1,21 @@
+.pessoa__imagem {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 100%;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.pessoa__imagem--marilia {
+    background-image: url("../../img/pessoas/marilia1.png");
+}
+
+.pessoa__imagem--mari {
+    background-image: url("../../img/pessoas/marilia2.png");
+}
+
+.pessoa__imagem--mah {
+    background-image: url("../../img/pessoas/marilia3.png");
+}

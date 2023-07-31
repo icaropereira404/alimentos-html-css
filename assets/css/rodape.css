@@ -1,0 +1,36 @@
+.rodape {
+    line-height: 50px;
+    height: 100px;
+    background: lightgray;
+    padding: 28px;
+}
+
+.rodape span {
+    float: left;
+    width:45%;
+    line-height: 60px; 
+}
+
+.rodape ul {
+    float: right;
+    display: table;
+}
+
+.rodape ul li {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.rodape ul li a .rodape__logo {
+    width: 2rem;
+}
+
+/* 
+background: #bfbfbf;
+    color: #000000;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+    display: flex;
+    justify-content: flex-end; */
